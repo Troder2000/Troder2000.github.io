@@ -1,1 +1,27 @@
+title: Arsh Bansal
+description: CS & Data Science Student @ UW–Madison | SWE Focus | Graduation Dec 2025
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
+url: https://Troder2000.github.io
+github_username: Troder2000
+
+# Minimal Mistakes basics
+minimal_mistakes_skin: default
+logo: /assets/profile.jpg
+author:
+  name: Arsh Bansal
+  bio: Computer Science & Data Science student at UW–Madison, graduating Dec 2025. Interested in software engineering, distributed systems, and data infrastructure.
+  links:
+    - label: GitHub
+      icon: "fab fa-github"
+      url: "https://github.com/Troder2000"
+    - label: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/arsh-bansal1/"
+
+# Optional analytics later:
+# google_analytics: G-XXXXXXXXXX
